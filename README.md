@@ -10,4 +10,4 @@ This repository has some HTML files from my college classworks and college assig
 5. Create a table with HTML table tag
 
 ## 2. College Assignment for FrameHTML
-1. Frame created with different HTML files and different pages that will open on click
+1. Frame created using HTML Frame tag with different HTML files and different pages that will open on click
