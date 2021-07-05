@@ -14,7 +14,7 @@ This repository has some HTML files from my college classworks and college assig
 
 ## 3. College Assignment for 24th December 2020
 1. Question 1: Order list.
-2. Question 2: HTML Table
+2. Question 2: HTML Table.
 3. Question 3: HTML table with colspan and rowspan.
 4. Question 4: Define three different paragraph class styles with different styles.
 5. Question 5: Create an unordered list of three popular books. The bullet for each book must be a small image
